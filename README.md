@@ -22,6 +22,7 @@ Apaixonado por tecnologia, sou uma pessoa que ama solucionar problemas, trabalho
 <p>
   🤝 OPEN TO WORK
 </p>
+
 ---
 
 ## 🧠 Tech Stacks
@@ -70,6 +71,14 @@ Apaixonado por tecnologia, sou uma pessoa que ama solucionar problemas, trabalho
 
 ---
 
+## 🗣️ Spoken Languages
+
+<p>
+  <img src="https://img.shields.io/badge/English-Professional%20Proficiency-1E90FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portuguese-Native%20Speaker-32CD32?style=for-the-badge&logoColor=white" />
+</p>
+
+---
 ## 🌐 Social & Contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hsmoriyama/)
@@ -83,5 +92,4 @@ Apaixonado por tecnologia, sou uma pessoa que ama solucionar problemas, trabalho
 </p>
 
 ---
-
 ## ⭐ Thanks for visiting!
