@@ -71,7 +71,7 @@ Apaixonado por tecnologia, sou uma pessoa que ama solucionar problemas, trabalho
 
 ---
 
-## 🗣️ Spoken Languages
+## 🗣️ Idiomas
 
 <p>
   <img src="https://img.shields.io/badge/English-Professional%20Proficiency-1E90FF?style=for-the-badge&logoColor=white" />
