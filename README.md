@@ -1,31 +1,37 @@
-<h1 align="center">👋 Olá, sou <strong>Higor Moriyama Souza</strong></h1>
+<h1 align="center">👋🏻 Hello World! Me chamo <strong>Higor Moriyama Souza</strong></h1>
 <p align="center">Análista de Sistemas | Desenvolvedor WEB e Mobile</p>
 
 ---
 
-## 🚀 About Me
+## 📋 Sobre mim
 
-Apaixonado por tecnologia, sou uma pessoa que ama solucionar problemas, trabalho muito bem em equipe, mais também sendo capaz de trazer soluções rápidas mesmo sózinho, gosto de conhecer novas pessoas, costumes e culturas diferentes, acreditando sempre que podemos aprender com todos neste mundo onde somos eternos aprendizes. Sou formado técnico em "TI", "Eletrotécnica" e estou cursando o ensino superior em "Análise e Desenvolvimento de Sistemas", na Instituição de Ensino Estácio, tenho especialização em desenvolvimento backend com Java e estou cursando uma especialização para desenvolvimento web.
+Apaixonado por tecnologia, amo solucionar problemas, trabalho muito bem em equipe, mas também sou capaz de trazer soluções rápidas mesmo sózinho, gosto de conhecer novas pessoas, costumes e culturas diferentes, acreditando sempre que podemos aprender com todos neste mundo onde somos eternos aprendizes. Sou formado técnico em "TI", "Eletrotécnica" e estou finalizando o ensino superior em "Análise e Desenvolvimento de Sistemas" na Instituição de Ensino Estácio, tenho especialização em desenvolvimento backend com Java e Spring Boot, estou cursando uma especialização da TripleTen para desenvolvimento web fullstack e venho aprofundando meus conhecimentos em backend através de um bootcamp da DIO com fóco no desenvolvimento em Java, Spring Boot, Inteligência Artificial e Cloud com AWS.
 
 <p>
-  💡 Desenvolvedor WEB e mobile
+  💡 Desenvolvedor WEB e mobile.
 </p>
 <p>
-  💻 Desenvolvedor de aplicações Fullstack com tecnologias modernas  
+  💻 Desenvolvedor de aplicações Fullstack com tecnologias modernas.
 </p>
 <p>
-  📱 Experiência comprovada de 2 anos como desenvolvedor Frontend, Backend e Fullstack
+  📱 Experiência comprovada de 2 anos como desenvolvedor Frontend, Backend e Fullstack.
 </p>
 <p>
-  🔍 Em aprendizado constante
+  🔍 Em aprendizado constante.
 </p>
 <p>
-  🤝 OPEN TO WORK
+  🤝 OPEN TO WORK.
 </p>
 
 ---
 
-## 🧠 Tech Stacks
+## ⌛️ Experiência
+
+Atuei como Desenvolvedor de aplicações e Analista de desenvolvimento de sistemas para a empresa Atos, empresa na qual trabalhei em projetos tanto internos quanto do cliente Volkswagen, trabalhando em parceria no desenvolvimento, modificações, atualizações, otimizações, testes e migração de aplicações mobile, web, APIs e outros, também participava ativamente de Sprints, Dailys e reuniões com a equipe, com membros da empresa Atos tanto do Brasil quanto do exterior, com clientes e stakeholders, auxiliando nas tomadas de decisões quando necessário. 
+
+---
+
+## 🧠 Tecnologías com as quais trabalhei
 
 ### 🖥️ Linguagens
 <p>
@@ -79,16 +85,16 @@ Apaixonado por tecnologia, sou uma pessoa que ama solucionar problemas, trabalho
 </p>
 
 ---
-## 🌐 Social & Contato
+## 🌐 Contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hsmoriyama/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HigorMoriyamaSouza)
 
 <p>
-  Telefone: 15-99825-5286 
+  📱  Telefone: 15-99825-5286 
 </p>
 <p>
-  Email: higor.moriyama.souza@gmail.com
+  📧 Email: higor.moriyama.souza@gmail.com
 </p>
 
 ---
