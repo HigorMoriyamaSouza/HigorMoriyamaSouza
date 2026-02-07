@@ -5,7 +5,7 @@
 
 ## 📋 About me:
 
-Passionate about technology, I love solving problems, I work very well in a team, but I'm also capable of providing quick solutions on my own. I enjoy meeting new people, costumes, and different cultures always believing that we can learn from everyone in this world where we are eternal learners. I hold a degree in Systems Analysis and Development from Estácio Educational Institution, I have specializations in backend development with Java, Spring Boot, Artificial Intelligence, and Cloud with AWS. I'm currently pursuing a specialization at TripleTen in full stack web development and have been further deepening my knowledge in backend.
+Passionate about technology, I love solving problems, I work very well in a team, but I'm also capable of providing quick solutions on my own. I enjoy meeting new people, because I believe that we can learn from everyone in this world where we are eternal learners. I hold a degree in Systems Analysis and Development from Estácio Educational Institution, I have specializations in backend development with Java, Spring Boot, Artificial Intelligence, and Cloud with AWS. I'm currently pursuing a specialization at TripleTen in full stack web development and have been further deepening my knowledge in backend.
 
 <p>
   💡 WEB and mobile developer.
@@ -83,8 +83,8 @@ I worked as an Application Developer and Systems Development Analyst for Atos co
 ## 🗣️ Languages:
 
 <p>
-  <img src="https://img.shields.io/badge/English-Professional%20Proficiency-1E90FF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Portuguese-Native%20Speaker-32CD32?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/English-Professional%20Proficiency-1E90FF?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
