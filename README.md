@@ -84,6 +84,7 @@ Enterprise Application Development
 ### ⚙️ Back-end:
 <p>
   <img src="https://img.shields.io/badge/Java_Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
@@ -96,10 +97,11 @@ Enterprise Application Development
 
 ---
 
-## 🛠 Tools & Other technologies:
+### 🛠 Tools & Other technologies:
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
@@ -120,7 +122,7 @@ Enterprise Application Development
 
 <p>
   <img src="https://img.shields.io/badge/Portuguese-Native%20Speaker-32CD32?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/English-Professional%20Proficiency-1E90FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/English-Fluent-1E90FF?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
