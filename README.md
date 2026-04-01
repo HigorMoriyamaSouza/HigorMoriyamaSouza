@@ -1,44 +1,72 @@
 <h1 align="center">👋🏻 Hello World! I'm <strong>Higor Moriyama Souza</strong></h1>
-<p align="center">System Analyst | WEB & Mobile Developer | Full Stack Developer| Monolithic & Legacy Applications Maintenance</p>
+<p align="center">Software Engineer | Backend-Focused Full Stack Developer
+Node.js • Java • Spring Boot • REST APIs • Angular • React • React Native • PostgreSQL • MySQL</p>
 
 ---
 
-## 📋 About me:
+## 🚀 About Me
 
-Passionate about technology, I love solving problems, I work very well in a team, but I'm also capable of providing quick solutions on my own. I enjoy meeting new people, because I believe that we can learn from everyone in this world where we are eternal learners. I hold a degree in Systems Analysis and Development from Estácio Educational Institution, I have specializations in backend development with Java, Spring Boot, Artificial Intelligence, and Cloud with AWS. I'm currently pursuing a specialization at TripleTen in full stack web development and have been further deepening my knowledge in backend.
+I'm a Software Engineer focused on backend and full stack development, building and maintaining enterprise web applications, REST APIs, and production systems.
 
-<p>
-  💡 WEB and mobile developer.
-</p>
-<p>
-  💻 Full stack developer with modern technologies.
-</p>
-<p>
-  💾 Monolithic and Legacy application maintenance.
-<p>
-<p>
-  📱 2 years experienced developer.
-</p>
-<p>
-  🔍 In constant learning.
-</p>
-<p>
-  🤝 OPEN TO WORK.
-</p>
+I have experience contributing to enterprise platforms and client systems used by companies such as Atos and Volkswagen, working with technologies like Node.js, Java, Spring Boot, Angular, React, and React Native.
+
+My work includes both developing new features and maintaining complex legacy systems where reliability, scalability, and maintainability are critical.
+
+I enjoy solving complex technical problems, understanding large codebases, and modernizing systems that support real business operations.
 
 ---
 
-## ⌛️ Experience:
+⭐ Featured Projects
 
-I worked as an Application Developer and Systems Development Analyst for Atos company, in the context I was involved in both internal projects and client projects like Volkswagen, collaborating on development, modifications, updates, optimizations, testing, deployment, monitoring, and migration of mobile and web applications, RESTful APIs, and others such as legacy/monolithic applications, always applying best development practices. I also actively participated in Sprints, Dailys, and team meetings with members of Atos from both Brazil and abroad, as well as with clients and stakeholders, assisting in decision-making when necessary.
+⚙️ Legacy Enterprise System Analysis
+Analysis and maintenance of a Java monolithic enterprise system running on Apache Tomcat.
 
+Tech Stack
+Java • Apache Tomcat • MySQL
+
+Highlights
+• Reverse engineering of undocumented legacy systems
+• Identification of architecture and business rules from existing codebase
+• Maintenance and safe updates of production enterprise applications
+• Debugging and optimization of legacy components
+
+
+🏢 Enterprise Meeting Scheduler Platform
+Full stack web and mobile application designed for meeting scheduling and guest access control integrated with corporate turnstile systems.
+
+Tech Stack
+Node.js • React • React Native • PostgreSQL • Docker
+
+Highlights
+• Full stack development (frontend, backend and database)
+• REST API architecture
+• Guest and meeting management system
+• Integration with corporate access control systems
+• Containerized environment using Docker
+• Agile team collaboration with Git version control
+
+---
+
+## 💼 Professional Experience
+
+Legacy System Maintenance
+• Analysis and maintenance of Java monolithic systems running on Apache Tomcat
+• Reverse engineering of undocumented enterprise systems
+• Identification of architecture and business rules from existing codebases
+• Safe implementation of updates and system improvements
+
+Enterprise Application Development
+• Development of web and mobile applications
+• Design and implementation of RESTful APIs
+• Frontend and backend feature development
+• Database modeling and optimization
+ 
 ---
 
 ## 🧠 Technologies I worked with:
 
 ### 🖥️ Programming languages:
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -62,9 +90,8 @@ I worked as an Application Developer and Systems Development Analyst for Atos co
 
 ### 🗄️ Databases:
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
@@ -73,10 +100,19 @@ I worked as an Application Developer and Systems Development Analyst for Atos co
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
+
+---
+
+📈 Current Focus
+
+• Backend architecture and scalable APIs
+• Enterprise system modernization
+• Full stack application development
+• Clean architecture and maintainable systems
 
 ---
 
@@ -88,18 +124,36 @@ I worked as an Application Developer and Systems Development Analyst for Atos co
 </p>
 
 ---
+
+🤝 Let's Connect
+
+LinkedIn:
+https://www.linkedin.com/in/hsmoriyama/
+
+GitHub:
+https://github.com/HigorMoriyamaSouza
+
+Email:
+higor.moriyama.souza@gmail.com
+
+---
+
 ## 🌐 Contact
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hsmoriyama/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HigorMoriyamaSouza)
 
-
-<p>
-  📱  Telefone: +55 (15) 99825-5286 
-</p>
 <p>
   📧 Email: higor.moriyama.souza@gmail.com
 </p>
 
 ---
+
+<p>
+  📚 Technology evolves — and so do I.
+</p>
+
+<p>
+🤝 Open to Software Engineer / Full Stack Developer job.
+</p>
+
 ## ⭐ Thanks for visiting!
