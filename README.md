@@ -16,7 +16,7 @@ I enjoy solving complex technical problems, understanding large codebases, and m
 
 ---
 
-⭐ Featured Projects
+## ⭐ Featured Projects
 
 ⚙️ Legacy Enterprise System Analysis
 Analysis and maintenance of a Java monolithic enterprise system running on Apache Tomcat.
@@ -107,7 +107,7 @@ Enterprise Application Development
 
 ---
 
-📈 Current Focus
+## 📈 Current Focus
 
 • Backend architecture and scalable APIs
 • Enterprise system modernization
@@ -125,7 +125,7 @@ Enterprise Application Development
 
 ---
 
-🤝 Let's Connect
+## 🤝 Let's Connect
 
 LinkedIn:
 https://www.linkedin.com/in/hsmoriyama/
