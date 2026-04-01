@@ -142,7 +142,7 @@ higor.moriyama.souza@gmail.com
 
 ## 🌐 Contact
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hsmoriyama/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higormoriyamasouza/)
 
 <p>
   📧 Email: higor.moriyama.souza@gmail.com
