@@ -1,14 +1,14 @@
 <h1 align="center">👋🏻 Hello World! I'm <strong>Higor Moriyama Souza</strong></h1>
-<p align="center">Software Engineer | Backend-Focused Full Stack Developer
-Node.js • Java • Spring Boot • REST APIs • Angular • React • React Native • PostgreSQL • MySQL</p>
+<p align="center">Software Engineer | Full Stack Developer & Frontend
+JavaScript • Node.js • Java • Spring Boot  | Angular • React • REST APIs • PostgreSQL • MySQL • Docker  • Enterprise Systems • Legacy Systems Modernization
 
 ---
 
 ## 🚀 About Me
 
-I'm a Software Engineer focused on backend and full stack development, building and maintaining enterprise web applications, REST APIs, and production systems.
+I'm a Software Engineer and full stack developer, building and maintaining enterprise web applications, REST APIs, and production systems.
 
-I have experience contributing to enterprise platforms and client systems used by companies such as Atos and Volkswagen, working with technologies like Node.js, Java, Spring Boot, Angular, React, and React Native.
+I have experience contributing to enterprise platforms and client systems used by companies such as Atos and Volkswagen, working with technologies like JavaScript, Node.js, Java, Spring Boot, Angular, React, and React Native.
 
 My work includes both developing new features and maintaining complex legacy systems where reliability, scalability, and maintainability are critical.
 
@@ -35,7 +35,7 @@ Highlights
 Full stack web and mobile application designed for meeting scheduling and guest access control integrated with corporate turnstile systems.
 
 Tech Stack
-Node.js • React • React Native • PostgreSQL • Docker
+JavaScript • Node.js • Angular • React Native • PostgreSQL • Docker
 
 Highlights
 • Full stack development (frontend, backend and database)
@@ -67,9 +67,9 @@ Enterprise Application Development
 
 ### 🖥️ Programming languages:
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
 ### 🎨 Front-end:
@@ -83,10 +83,10 @@ Enterprise Application Development
 
 ### ⚙️ Back-end:
 <p>
-  <img src="https://img.shields.io/badge/Java_Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java_Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases:
@@ -111,9 +111,9 @@ Enterprise Application Development
 
 ## 📈 Current Focus
 
-• Backend architecture and scalable APIs
-• Enterprise system modernization
+• Frontend & Backend architecture and scalable APIs
 • Full stack application development
+• Enterprise system modernization
 • Clean architecture and maintainable systems
 
 ---
