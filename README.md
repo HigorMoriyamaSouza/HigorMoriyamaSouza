@@ -1,7 +1,8 @@
 <h1 align="center">👋🏻 Hello World! I'm <strong>Higor Moriyama Souza</strong></h1>
 <p align="center">Software Engineer | Full Stack Developer & Frontend
 
-JavaScript • Node.js • Java • Spring Boot  | Angular • React • REST APIs • PostgreSQL • MySQL • Docker  • Enterprise Systems • Legacy Systems Modernization
+JavaScript • Node.js • Java • Spring Boot  | Angular • React • REST APIs • PostgreSQL • MySQL • Docker  
+• Enterprise Systems • Legacy Systems Modernization
 
 ---
 
