@@ -31,6 +31,7 @@ Highlights
 • Maintenance and safe updates of production enterprise applications
 • Debugging and optimization of legacy components
 
+##
 
 🏢 Enterprise Meeting Scheduler Platform
 Full stack web and mobile application designed for meeting scheduling and guest access control integrated with corporate turnstile systems.
@@ -116,6 +117,7 @@ Enterprise Application Development
 • Full stack application development
 • Enterprise system modernization
 • Clean architecture and maintainable systems
+
 
 ---
 
