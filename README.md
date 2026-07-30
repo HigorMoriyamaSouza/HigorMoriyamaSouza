@@ -133,7 +133,7 @@ Enterprise Application Development
 ## 🤝 Let's Connect
 
 LinkedIn:
-https://www.linkedin.com/in/hsmoriyama/
+https://www.linkedin.com/in/higormoriyamasouza
 
 GitHub:
 https://github.com/HigorMoriyamaSouza
