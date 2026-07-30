@@ -1,164 +1,134 @@
-<h1 align="center">👋🏻 Hello World! I'm <strong>Higor Moriyama Souza</strong></h1>
-<p align="center">Software Engineer | Full Stack Developer (Frontend/Backend)
+# Hi, I'm Higor Moriyama Souza
 
-<p align="center">JavaScript • Node.js • Java • Spring Boot  | Angular • React • REST APIs • PostgreSQL • MySQL • Docker • Enterprise Systems • Legacy Systems Modernization
+**Software Engineer | Backend & Full Stack Developer**
 
----
+JavaScript • TypeScript • Node.js • Java • REST APIs • PostgreSQL • MySQL • Docker
 
-## 🚀 About Me
+I am a Software Engineer with enterprise experience developing backend services, full stack applications, and maintaining and modernizing production systems used by Atos and Volkswagen.
 
-I'm a Software Engineer and full stack developer, building and maintaining enterprise web applications, REST APIs, and production systems.
+My strongest areas are backend development, REST API design, system analysis, technical documentation, and legacy-system modernization. I enjoy understanding complex codebases, solving production problems, and turning undocumented systems into maintainable software.
 
-I have experience contributing to enterprise platforms and client systems used by companies such as Atos and Volkswagen, working with technologies like JavaScript, Node.js, Java, Spring Boot, Angular, React, and React Native.
+- Based in Itapeva, São Paulo, Brazil
+- Open to remote opportunities in Brazil and internationally
+- Portuguese: Native
+- English: Fluent
+- German: Beginner
 
-My work includes both developing new features and maintaining complex legacy systems where reliability, scalability, and maintainability are critical.
+## Professional Experience
 
-I enjoy solving complex technical problems, understanding large codebases, and modernizing systems that support real business operations.
+### Atos — Enterprise Full Stack Development
 
----
+Contributed to the development and maintenance of **MyAccess**, an enterprise web and mobile platform for meeting scheduling and visitor-access management.
 
-## ⭐ Featured Projects
+**Technologies:** Angular, React Native, Node.js, NestJS, PostgreSQL, Docker
 
-⚙️ Legacy Enterprise System Analysis
-Analysis and maintenance of a Java monolithic enterprise system running on Apache Tomcat.
+Key contributions:
 
-Tech Stack
-Java • Apache Tomcat • MySQL
+- Developed and maintained full stack features for web and mobile applications
+- Designed and implemented backend services and RESTful APIs
+- Implemented database operations and integrations
+- Supported workflows involving meeting scheduling, visitor invitations, QR-code access, and corporate access-control systems
+- Worked within Agile teams using Git, GitHub, code reviews, and sprint planning
 
-Highlights
-• Reverse engineering of undocumented legacy systems
-• Identification of architecture and business rules from existing codebase
-• Maintenance and safe updates of production enterprise applications
-• Debugging and optimization of legacy components
+### Volkswagen — Legacy System Modernization
 
-##
+Worked on the modernization and stabilization of **Partmon**, a legacy Java manufacturing system used in Volkswagen production environments.
 
-🏢 Enterprise Meeting Scheduler Platform
-Full stack web and mobile application designed for meeting scheduling and guest access control integrated with corporate turnstile systems.
+**Technologies:** Java, Apache Tomcat, MySQL, Bitbucket
 
-Tech Stack
-JavaScript • Node.js • Angular • React Native • PostgreSQL • Docker
+Key contributions:
 
-Highlights
-• Full stack development (frontend, backend and database)
-• REST API architecture
-• Guest and meeting management system
-• Integration with corporate access control systems
-• Containerized environment using Docker
-• Agile team collaboration with Git version control
+- Reverse engineered an undocumented monolithic Java application
+- Analyzed legacy architecture, infrastructure, business rules, and data flows
+- Discovered that two factories were running separate application versions and infrastructures
+- Replaced an unstable external database dependency with a structured-file ingestion process
+- Corrected data-processing and consistency problems
+- Produced technical documentation for future maintenance and modernization
+- Supported infrastructure migration and application deployment
+- Contributed to estimated performance improvements of approximately 70–90% in critical workflows
 
----
+## Featured Projects
 
-## 💼 Professional Experience
+### [Order Application](https://github.com/HigorMoriyamaSouza/order-application)
 
-Legacy System Maintenance
-• Analysis and maintenance of Java monolithic systems running on Apache Tomcat
-• Reverse engineering of undocumented enterprise systems
-• Identification of architecture and business rules from existing codebases
-• Safe implementation of updates and system improvements
+Backend REST API for order management.
 
-Enterprise Application Development
-• Development of web and mobile applications
-• Design and implementation of RESTful APIs
-• Frontend and backend feature development
-• Database modeling and optimization
- 
----
+**JavaScript • Node.js • Express.js • MySQL • JWT • Postman**
 
-## 🧠 Technologies I worked with:
+- Complete CRUD operations
+- JWT-based authentication
+- Modular backend structure
+- API documentation with Postman
+- Transactional order-data management
 
-### 🖥️ Programming languages:
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
+[View API documentation](https://documenter.getpostman.com/view/50687802/2sBXcLhdiG)
 
-### 🎨 Front-end:
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-</p>
+### [Around the U.S.](https://github.com/HigorMoriyamaSouza/web_project_around_pt)
 
-### ⚙️ Back-end:
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java_Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-</p>
+A responsive social-style web application built with Vanilla JavaScript and integrated with an external REST API.
 
-### 🗄️ Databases:
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+**JavaScript ES6+ • HTML5 • CSS3 • REST API • Object-Oriented Programming • BEM**
 
----
+- Loads profile information and image cards from an external API
+- Allows users to edit profile details and update their avatar
+- Supports creating, liking, unliking, previewing, and deleting image cards
+- Uses reusable ES6 classes with separated responsibilities
+- Includes client-side form validation and loading feedback
+- Provides responsive layouts and accessible modal interactions
+- Organizes styles using the BEM methodology and modular CSS
 
-### 🛠 Tools & Other technologies:
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
-</p>
+[View live application](https://higormoriyamasouza.github.io/web_project_around_pt/src/)
 
----
+### [Expense Tracker](https://github.com/HigorMoriyamaSouza/web_project_expenses_pt)
 
-## 📈 Current Focus
+A lightweight expense-management application built with Vanilla JavaScript.
 
-• Frontend & Backend architecture and scalable APIs
-• Full stack application development
-• Enterprise system modernization
-• Clean architecture and maintainable systems
+**JavaScript • HTML5 • CSS3 • LocalStorage**
 
+- Budget and expense management
+- Category-based expense tracking
+- Real-time statistics
+- Persistent browser storage
+- Dynamic interface updates without page reloads
 
----
+[View live application](https://higormoriyamasouza.github.io/web_project_expenses_pt/)
 
-## 🗣️ Languages:
+## Technical Skills
 
-<p>
-  <img src="https://img.shields.io/badge/Portuguese-Native%20Speaker-32CD32?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/English-Fluent-1E90FF?style=for-the-badge&logoColor=white" />
-</p>
+### Professional experience
 
----
+- **Languages:** JavaScript, TypeScript, Java
+- **Backend:** Node.js, NestJS, Express.js, REST APIs
+- **Frontend:** Angular, React, React Native, HTML5, CSS3
+- **Databases:** PostgreSQL, MySQL
+- **Tools and platforms:** Docker, Apache Tomcat, Git, GitHub, Bitbucket, DBeaver, MySQL Workbench
+- **Practices:** Agile, Scrum, code reviews, debugging, technical documentation, clean code, object-oriented programming, system analysis
 
-## 🤝 Let's Connect
+### Additional hands-on learning
 
-LinkedIn:
-https://www.linkedin.com/in/higormoriyamasouza
+- Spring Boot and Spring Security
+- AWS fundamentals
+- Docker and containerized environments
+- API security and OWASP concepts
+- Microsoft Azure AI Fundamentals
 
-GitHub:
-https://github.com/HigorMoriyamaSouza
+## Education
 
-Email:
-higor.moriyama.souza@gmail.com
+- **Technologist Degree in Systems Analysis and Development** — Estácio University
+- **Web Development Program** — TripleTen, in progress
+- **Java Development with AI, Docker and AWS Bootcamp** — Accenture / DIO
+- **Java Systems Development Bootcamp** — Atos / UFN
 
----
+## Current Focus
 
-## 🌐 Contact
+- Backend engineering with Node.js and Java
+- REST API architecture and security
+- Enterprise application development
+- Legacy-system modernization
+- Testing, Docker, documentation, and maintainable software design
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higormoriyamasouza/)
+## Contact
 
-<p>
-  📧 Email: higor.moriyama.souza@gmail.com
-</p>
-
----
-
-<p>
-  📚 Technology evolves — and so do I.
-</p>
-
-<p>
-🤝 Open to Software Engineer / Full Stack Developer job.
-</p>
-
-## ⭐ Thanks for visiting!
+- [LinkedIn](https://www.linkedin.com/in/higormoriyamasouza)
+- [GitHub](https://github.com/HigorMoriyamaSouza)
+- Email: higor.moriyama.souza@gmail.com
